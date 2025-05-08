@@ -1,0 +1,249 @@
+{
+    "name": "Muhammad Idris",
+    "label": "Software Developer",
+    "image_path": "portfolio_media/profile.jpg",
+    "contact": {
+      "email": "Muhammadidrisibrahim24@gmail.com",
+      "phone": "+234 816 097 1068",
+      "location": "Kaduna, Nigeria"
+    },
+    "summary": "Software Developer and Embedded Systems & IoT Engineer with expertise in Python, Javascript, C++, front-end development, and microcontrollers. Passionate about building efficient software, intelligent embedded systems, and bridging hardware with software.",
+    "url": "https://Muhammad-Idris24.github.io",
+    "social_links": [
+      {
+        "label": "Muhammad-Idris24",
+        "url": "https://Muhammad-Idris24.github.io",
+        "svg_path": "img/globe.svg"
+      },
+        {
+            "label": "LinkedIn",
+            "url": "https://www.linkedin.com/in/muhammad-idris-b89987313/",
+            "svg_path": "img/linkedin.svg"
+        },
+        {
+            "label": "X",
+            "url": "https://x.com/mamiidris24",
+            "svg_path": "img/twitter-x.svg"
+        },
+    
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/mamiidris24/",
+        "svg_path": "img/instagram.svg"
+      },
+      {
+        "label": "Github",
+        "url": "https://github.com/Muhammad-Idris24",
+        "svg_path": "img/github.svg"
+      }
+    ],
+    "work_experience": [
+    {
+        "company": "YandyTech",
+        "position": "Frontend Developer Intern",
+        "url": "https://yandytech.org/",
+        "start_date": "2024-11",
+        "end_date": "2025-03",
+        "summary": "",
+        "highlights": [
+            "Developed responsive web applications using React, improving load times by 25% through code optimization and lazy loading",
+            "Collaborated with UI/UX designers via Figma to implement pixel-perfect interfaces that increased user engagement by 30%",
+            "Debugged frontend issues using Chrome DevTools, reducing runtime errors by 40% in production applications"
+        ]
+    },
+    {
+        "company": "Codveda Technologies",
+        "position": "Python Developer",
+        "url": "https://codveda.com/index.html",
+        "start_date": "2025-04",
+        "end_date": "2025-05",
+        "summary": "",
+        "highlights": [
+            "Built Django-based e-commerce platform with Stripe/PayPal integration, enabling secure online transactions",
+            "Automated data processing scripts using Python and pandas, reducing manual data entry time by 30%",
+            "Implemented RESTful APIs to connect frontend React components with backend Django services"
+        ]
+    },
+    {
+        "company": "Mastermind Tech",
+        "position": "Desktop Developer (SIMES Internship)",
+        "url": "https://www.mmt-ng.com/",
+        "start_date": "2024-10",
+        "end_date": "2025-04",
+        "summary": "",
+        "highlights": [
+            "Developed result-scaling system using C++ and MySQL, improving academic evaluation accuracy by 20%",
+            "Contributed to rural electrification management system with real-time analytics and budget tracking features",
+            "Optimized database queries, reducing report generation time from 5 minutes to under 30 seconds"
+        ]
+    }
+    ],
+    "projects": [
+    {
+        "title": "Northern Nigerian Students Forum App (Django)",
+        "summary": "Web-based community platform for student engagement with social media features.",
+        "url": "https://github.com/Muhammad-Idris24/NNSF_APP.git", 
+        "highlights": [
+            "Built user authentication, post creation, and commenting systems using Django",
+            "Increased student engagement by 50% through optimized UI/UX",
+            "Integrated SQLite for scalable database management"
+        ],
+        "images": [
+            {
+                "img_path": "portfolio_media/nnfs1.png",
+                "caption": "User profile"
+            },
+            {
+                "img_path": "portfolio_media/nnfs2.png",
+                "caption": "Media & Posts"
+            }
+        ]
+    },
+    {
+        "title": "E-Commerce Platform (Django/Stripe)",
+        "summary": "Full-featured online store with secure payment processing.",
+        "url": "https://halal-fashion.onrender.com/", 
+        "highlights": [
+            "Implemented Stripe/PayPal API for checkout flows",
+            "Developed admin dashboard for product CRUD operations",
+            "Reduced cart abandonment by 35% through responsive design"
+        ],
+        "images": [
+            {
+                "img_path": "portfolio_media/ecom1.png",
+                "caption": "Home Page"
+            },
+            {
+                "img_path": "portfolio_media/ecom2.png",
+                "caption": "Payment Flow"
+            }
+        ]
+    },
+    {
+        "title": "File Encryptor (CLI and GUI)",
+        "summary": "A secure file encryption/decryption tool with both CLI and GUI interfaces.",
+        "url": "https://muhammad-idris24.github.io/file-encryptor/ ", 
+        "highlights": [
+            "Implemented AES-256-CBC encryption with PyCryptodome library for military-grade file protection",
+            "Designed secure key generation and storage system using PBKDF2 key derivation (100,000 iterations)",
+            "Reduced encryption/decryption time by 40% through multiprocessing optimization",
+            "Added CLI interface with argparse for user-friendly operation across Windows/Linux/macOS"
+        ],
+        "images": [
+            {
+                "img_path": "portfolio_media/encrypt.png",
+                "caption": "File Encryptor Documentation"
+            }
+        ]
+    }
+],
+"volunteer_experience": [
+    {
+        "organization": "University of Abuja",
+        "position": "Director of ICT (Volunteer)",
+        "url": "https://www.uniabuja.edu.ng/",
+        "start_date": "2024",
+        "end_date": "2025",
+        "summary": "Led a team of 3+ student volunteers to maintain and upgrade the organization's ICT infrastructure, while providing technical support to some faculty and students.",
+        "highlights": [
+            "Developed a web-based student management system using Flask, reducing administrative workload by 30%",
+            "Implemented a digital library system with 1000+ e-books, improving resource accessibility for students",
+            "Organized monthly tech workshops on Python programming and IoT for 150+ students",
+            "Implemented a ticketing system using Trello to streamline IT support requests"
+        ]
+    },
+    {
+        "organization": "National Association of Electrical and Electronics Engineering Students",
+        "position": "Technical Director (Volunteer)",
+        "url": "N/A", 
+        "start_date": "2023",
+        "end_date": "2025",
+        "summary": "Oversaw technical initiatives and educational programs for 500+ engineering students across Nigerian universities.",
+        "highlights": [
+            "Designed a 12-week embedded systems training program with 85% completion rate",
+            "Hosted national hackathons on renewable energy solutions using Arduino/Raspberry Pi",
+            "Reduced event tech setup time by 50% through standardized equipment checklists"
+        ]
+    }
+],
+    "education": [
+        {
+            "institution": "University of Abuja",
+            "location": "Abuja, Nigeria",
+            "url": "https://www.uniabuja.edu.ng/",
+            "degrees": [
+              "Bachelor of Engineering in Electrical and Electronic Engineering (Expected)",
+              "Specialization in Embedded Systems, IoT, and Web Technologies"
+            ],
+            "honors": [
+              "IoT and Embedded Systems Certification (Mastermind Tech)",
+              "AI Career Essentials Certification (ALX)",
+              "Frontend Web Development Certification (YandyTech)",
+              "Python Development Certification (Codveda)",
+              "Dean's List Recognition for Academic Excellence (2023)"
+            ],
+            "gpa_cumulative": "3.5", 
+            "gpa_major": "3.8", 
+            "relevant_coursework": [
+              "Advanced Programming (Python/C++)",
+              "Embedded Systems Design",
+              "Microcontrollers and IoT",
+              "Data Structures and Algorithms",
+              "Mechatronics and Robotics",
+              "Digital Signal Processing",
+              "Human-Computer Interaction",
+              "Network Systems"
+            ]
+          }
+    ],
+"skills": [
+    {
+        "name": "Frontend Development (HTML5, CSS3, JavaScript, React)",
+        "proficiency": 85,
+        "proficiency_label": "Advanced",
+        "keywords": ["Responsive Design", "Figma", "Chrome DevTools"]
+    },
+    {
+        "name": "Python (Django, Flask, Automation)",
+        "proficiency": 90,
+        "proficiency_label": "Expert",
+        "keywords": ["Web Scraping", "API Integration", "Data Processing"]
+    },
+    {
+        "name": "Collaboration Tools (GitHub, Slack, Trello)",
+        "proficiency": 80,
+        "proficiency_label": "Advanced",
+        "keywords": ["Agile Workflows", "Remote Pair Programming"]
+    },
+    {
+        "name": "Embedded Systems (C++, Microcontrollers)",
+        "proficiency": 75,
+        "proficiency_label": "Comfortable",
+        "keywords": ["IoT", "Arduino", "Raspberry Pi"]
+    },
+    {
+        "name": "Database Management (SQL, SQLite, MySQL)",
+        "proficiency": 70,
+        "proficiency_label": "Intermediate",
+        "keywords": ["Schema Design", "Query Optimization"]
+    }
+],
+    "interests": [
+      {
+        "name": "Football",
+        "summary": "",
+        "images": [
+          {
+            "img_path": "portfolio_media/ff1.jpg",
+            "caption": "A local football match I played in"
+          },
+          {
+            "img_path": "portfolio_media/ff2.jpg",
+            "caption": "Image of my team and I after winning a local tournament"
+          }
+        ]
+      }
+    ],
+    "languages": [],
+    "references": []
+  }
